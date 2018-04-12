@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\bin\Debug\RunningAverageToluA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\bin\Debug\RunningAverageToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\bin\Debug\RunningAverageToluA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\obj\Debug\RunningAverageToluA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\obj\Debug\RunningAverageToluA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\obj\Debug\RunningAverageToluA.frmRunningAverage.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\obj\Debug\RunningAverageToluA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\obj\Debug\RunningAverageToluA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\obj\Debug\RunningAverageToluA.pdb
