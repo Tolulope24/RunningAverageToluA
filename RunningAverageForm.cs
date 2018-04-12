@@ -25,9 +25,24 @@ namespace RunningAverageToluA
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // Identify the 
-            int Average;
-            Average = int.Parse(txtAverage.Text);
+            // Identify the integer
+            int Number;
+            // Get the Number from the text box
+            Number = int.Parse(txtAverage.Text);
+            {
+
+            }
+
+              else if ( Number == -1)
+              {
+                MessageBox.Show("Running Average Ended", "Running Average");
+                this.btnCalculate.Enabled = false;
+                this.txtAverage.Visible = false;
+
+              }
+               
+            
+            
         }
     }
 }

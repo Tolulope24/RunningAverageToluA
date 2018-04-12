@@ -28,22 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnCalculate = new System.Windows.Forms.Button();
             this.lblStatement = new System.Windows.Forms.Label();
             this.lblAnswer = new System.Windows.Forms.Label();
             this.lblExit = new System.Windows.Forms.Label();
             this.txtAverage = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // button1
+            // btnCalculate
             // 
-            this.button1.Location = new System.Drawing.Point(15, 96);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnCalculate.Location = new System.Drawing.Point(15, 96);
+            this.btnCalculate.Name = "btnCalculate";
+            this.btnCalculate.Size = new System.Drawing.Size(75, 23);
+            this.btnCalculate.TabIndex = 0;
+            this.btnCalculate.Text = "Calculate";
+            this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.button1_Click);
             // 
             // lblStatement
             // 
@@ -89,7 +89,7 @@
             this.Controls.Add(this.lblExit);
             this.Controls.Add(this.lblAnswer);
             this.Controls.Add(this.lblStatement);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnCalculate);
             this.Name = "frmRunningAverage";
             this.Text = "Running Average";
             this.ResumeLayout(false);
@@ -99,7 +99,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnCalculate;
         private System.Windows.Forms.Label lblStatement;
         private System.Windows.Forms.Label lblAnswer;
         private System.Windows.Forms.Label lblExit;
