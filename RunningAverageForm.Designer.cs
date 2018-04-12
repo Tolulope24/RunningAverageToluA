@@ -37,9 +37,10 @@
             // 
             // btnCalculate
             // 
-            this.btnCalculate.Location = new System.Drawing.Point(15, 96);
+            this.btnCalculate.Location = new System.Drawing.Point(20, 118);
+            this.btnCalculate.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnCalculate.Name = "btnCalculate";
-            this.btnCalculate.Size = new System.Drawing.Size(75, 23);
+            this.btnCalculate.Size = new System.Drawing.Size(100, 28);
             this.btnCalculate.TabIndex = 0;
             this.btnCalculate.Text = "Calculate";
             this.btnCalculate.UseVisualStyleBackColor = true;
@@ -48,48 +49,53 @@
             // lblStatement
             // 
             this.lblStatement.AutoSize = true;
-            this.lblStatement.Font = new System.Drawing.Font("Trajan Pro", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblStatement.Location = new System.Drawing.Point(12, 34);
+            this.lblStatement.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblStatement.Location = new System.Drawing.Point(16, 42);
+            this.lblStatement.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblStatement.Name = "lblStatement";
-            this.lblStatement.Size = new System.Drawing.Size(240, 16);
+            this.lblStatement.Size = new System.Drawing.Size(273, 20);
             this.lblStatement.TabIndex = 1;
             this.lblStatement.Text = "Enter a Number (from 0 to 100)";
             // 
             // lblAnswer
             // 
             this.lblAnswer.AutoSize = true;
-            this.lblAnswer.Location = new System.Drawing.Point(12, 142);
+            this.lblAnswer.Location = new System.Drawing.Point(16, 175);
+            this.lblAnswer.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblAnswer.Name = "lblAnswer";
-            this.lblAnswer.Size = new System.Drawing.Size(0, 13);
+            this.lblAnswer.Size = new System.Drawing.Size(0, 17);
             this.lblAnswer.TabIndex = 2;
             // 
             // lblExit
             // 
             this.lblExit.AutoSize = true;
-            this.lblExit.Font = new System.Drawing.Font("Trajan Pro", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblExit.Location = new System.Drawing.Point(12, 67);
+            this.lblExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblExit.Location = new System.Drawing.Point(16, 82);
+            this.lblExit.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblExit.Name = "lblExit";
-            this.lblExit.Size = new System.Drawing.Size(131, 16);
+            this.lblExit.Size = new System.Drawing.Size(155, 20);
             this.lblExit.TabIndex = 3;
             this.lblExit.Text = "Press \"-1\" to Exit";
             // 
             // txtAverage
             // 
-            this.txtAverage.Location = new System.Drawing.Point(258, 32);
+            this.txtAverage.Location = new System.Drawing.Point(344, 39);
+            this.txtAverage.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtAverage.Name = "txtAverage";
-            this.txtAverage.Size = new System.Drawing.Size(47, 20);
+            this.txtAverage.Size = new System.Drawing.Size(61, 22);
             this.txtAverage.TabIndex = 4;
             // 
             // frmRunningAverage
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(317, 257);
+            this.ClientSize = new System.Drawing.Size(434, 197);
             this.Controls.Add(this.txtAverage);
             this.Controls.Add(this.lblExit);
             this.Controls.Add(this.lblAnswer);
             this.Controls.Add(this.lblStatement);
             this.Controls.Add(this.btnCalculate);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmRunningAverage";
             this.Text = "Running Average";
             this.ResumeLayout(false);

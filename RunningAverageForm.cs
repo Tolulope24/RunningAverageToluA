@@ -27,18 +27,15 @@ namespace RunningAverageToluA
         {
             // Identify the integer
             int Number;
+            int Average;
             // Get the Number from the text box
             Number = int.Parse(txtAverage.Text);
-            {
-
-            }
 
               else if ( Number == -1)
               {
                 MessageBox.Show("Running Average Ended", "Running Average");
                 this.btnCalculate.Enabled = false;
                 this.txtAverage.Visible = false;
-
               }
                
             
