@@ -21,16 +21,22 @@ namespace RunningAverageToluA
         public frmRunningAverage()
         {
             InitializeComponent();
-        }
+            
+        } 
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // Identify the integer
+            double Sum;
+            int NumTotal;
             int Number;
             int Average;
             // Get the Number from the text box
             Number = int.Parse(txtAverage.Text);
-
+            // Increment the total number
+            NumTotal = NumTotal + 1;
+            // Get the Average
+            Average = Number / NumTotal;
+            // Show Message box
               else if ( Number == -1)
               {
                 MessageBox.Show("Running Average Ended", "Running Average");
