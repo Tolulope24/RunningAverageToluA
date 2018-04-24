@@ -26,18 +26,19 @@ namespace RunningAverageToluA
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double Sum;
+            int Sum;
             int NumTotal;
             int Number;
             int Average;
             // Get the Number from the text box
             Number = int.Parse(txtAverage.Text);
             // Increment the total number
-            NumTotal = NumTotal + 1;
+            NumTotal = Number + 1;
+            Sum = NumTotal + Number;
             // Get the Average
-            Average = Number / NumTotal;
+            Average = Number / Sum;
             // Show Message box
-              else if ( Number == -1)
+              if ( Number == -1)
               {
                 MessageBox.Show("Running Average Ended", "Running Average");
                 this.btnCalculate.Enabled = false;

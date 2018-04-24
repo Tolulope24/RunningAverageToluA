@@ -7,3 +7,13 @@ N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s44878
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\obj\Debug\RunningAverageToluA.csproj.GenerateResource.Cache
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\obj\Debug\RunningAverageToluA.exe
 N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Adebayo, Tolulope (s448789)\Unit 3 (Decisions)\RunningAverageToluA\RunningAverageToluA\obj\Debug\RunningAverageToluA.pdb
+C:\Users\Tolu\Desktop\Grade 11 Programming\RunningAverageToluA\bin\Debug\RunningAverageToluA.exe.config
+C:\Users\Tolu\Desktop\Grade 11 Programming\RunningAverageToluA\bin\Debug\RunningAverageToluA.exe
+C:\Users\Tolu\Desktop\Grade 11 Programming\RunningAverageToluA\bin\Debug\RunningAverageToluA.pdb
+C:\Users\Tolu\Desktop\Grade 11 Programming\RunningAverageToluA\obj\Debug\RunningAverageToluA.csprojResolveAssemblyReference.cache
+C:\Users\Tolu\Desktop\Grade 11 Programming\RunningAverageToluA\obj\Debug\RunningAverageToluA.Properties.Resources.resources
+C:\Users\Tolu\Desktop\Grade 11 Programming\RunningAverageToluA\obj\Debug\RunningAverageToluA.frmRunningAverage.resources
+C:\Users\Tolu\Desktop\Grade 11 Programming\RunningAverageToluA\obj\Debug\RunningAverageToluA.csproj.GenerateResource.cache
+C:\Users\Tolu\Desktop\Grade 11 Programming\RunningAverageToluA\obj\Debug\RunningAverageToluA.csproj.CoreCompileInputs.cache
+C:\Users\Tolu\Desktop\Grade 11 Programming\RunningAverageToluA\obj\Debug\RunningAverageToluA.exe
+C:\Users\Tolu\Desktop\Grade 11 Programming\RunningAverageToluA\obj\Debug\RunningAverageToluA.pdb
