@@ -31,9 +31,13 @@ namespace RunningAverageToluA
             // Get the Number from the text box
             Number = int.Parse(txtAverage.Text);
             // Increment the total number
-            Number = Number + Sum;
+            NumTotal = NumTotal + 1;
+            //Get the sum
+            Sum = Number + Sum;
             // Get the Average
             Average = Sum / NumTotal;
+            //Show Average
+            this.lblAnswer.Text = "The Average is: " + Average;
             // Show Message box
               if ( Number == -1)
               {
